@@ -1,6 +1,6 @@
 **Python - Analiza i wizualizacja danych**
 
-*W razie problemów z otworzeniem plików: należy otworzyć „https://nbviewer.jupyter.org/”, a następnie wkleić link do notatnika. Przykład: https://github.com/KonradSzajdecki/Python---analiza-i-wizualizacja-danych/blob/main/Python-part1.ipynb
+*W razie problemów z otworzeniem plików: należy otworzyć „https://nbviewer.jupyter.org/”, a następnie wkleić link do notatnika. Przykład: https://nbviewer.jupyter.org/github/KonradSzajdecki/Python---analiza-i-wizualizacja-danych/blob/main/Python-part1.ipynb
 
 "Wykorzystanie metod i technik analityki biznesowej we wspomaganiu decyzji w przedsiębiorstwie"
 
