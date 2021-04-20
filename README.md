@@ -10,3 +10,6 @@ Schemat linii produkcyjnej w Hucie Szkła. Czerwone etykiety wskazują miejsce, 
 
 
 ![huta](https://user-images.githubusercontent.com/80699256/115374551-413fcd00-a1cd-11eb-82e8-3faab86c85dd.png)
+
+
+**Po więcej informacji zapraszam do konatku
